@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f884ee8-0e00-4341-b919-ca05a20ac11f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1jPd0wkUinMHVqpphD0uRPn4CSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f884ee8-0e00-4341-b919-ca05a20ac11f" name="Default Changelist" comment="" />
+      <created>1603709441276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603709441276</updated>
+      <workItem from="1603709443235" duration="14298000" />
+      <workItem from="1603824009542" duration="475000" />
+      <workItem from="1603824499188" duration="1195000" />
+      <workItem from="1604043163830" duration="649000" />
+      <workItem from="1604043908013" duration="597000" />
+      <workItem from="1604319126770" duration="427000" />
+      <workItem from="1604320603451" duration="1556000" />
+      <workItem from="1604326393021" duration="226000" />
+      <workItem from="1605015443570" duration="1296000" />
+      <workItem from="1605689844095" duration="3750000" />
+      <workItem from="1606308055235" duration="816000" />
+      <workItem from="1606308945447" duration="45000" />
+      <workItem from="1606314382482" duration="1213000" />
+      <workItem from="1606810883798" duration="64000" />
+      <workItem from="1606811061885" duration="136000" />
+      <workItem from="1606819243950" duration="15648000" />
+      <workItem from="1606899347207" duration="10661000" />
+      <workItem from="1606916927800" duration="3403000" />
+      <workItem from="1608112159680" duration="9517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="165" key="IDE.errors.dialog" timestamp="1606308064183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="165" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1606308064183" />
+    <state x="634" y="349" key="NewPhpFileDialog" timestamp="1608119263732">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="349" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1608119263732" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1606917731210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606917731210" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605694898220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1605694898220" />
+    <state x="476" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1606899350083">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606899350083" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1606829704052">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1606829704052" />
+  </component>
+</project>
